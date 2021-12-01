@@ -1,0 +1,6 @@
+-- import: fpm
+
+-- fpm.package:
+name: __PACKAGE_NAME__
+
+

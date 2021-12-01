@@ -1,0 +1,16 @@
+-- import: lib
+
+-- lib.header: fpm.dev
+
+
+--- ftd.text: Getting Started
+link: /how-to/get-started/
+margin-right: 10
+
+--- ftd.text: FAQ
+link: /faq/
+
+
+-- ftd.text:
+
+asd

@@ -1,0 +1,12 @@
+-- component header:
+component: ftd.row
+width: fill
+caption $title:
+open: main-container
+
+--- ftd.text: $title
+size: 24
+
+--- ftd.row:
+id: main-container
+align: right
