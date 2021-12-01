@@ -1,6 +1,6 @@
 -- import: fpm
 
 -- fpm.package:
-name: __PACKAGE_NAME__
+name: refactored_octo_eureka
 
 
